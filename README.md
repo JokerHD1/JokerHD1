@@ -1,4 +1,6 @@
-### Hi there 👋
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Igor</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Igor -->
 
 <!--
 **JokerHD1/JokerHD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
